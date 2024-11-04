@@ -1,4 +1,6 @@
 ConvBiFuseNet: A Parallel Fusion Model with Routing Attention for MRI Brain Tumor Classification
+
+
 This repository contains the implementation of ConvBiFuseNet, a novel network architecture that combines convolutional layers with bi-level routing attention to improve classification accuracy on medical imaging data. The model integrates convolutional features and attention mechanisms, allowing it to capture spatial and contextual information in a balanced way.
 
 
